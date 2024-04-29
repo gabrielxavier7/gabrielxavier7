@@ -1,5 +1,5 @@
 
- ## Brazillian web developer, focused on back-end development with Java.
+ ## Brazillian web developer, focused on front-end development with JS.
 
 <div align="center">
   <a href="https://github.com/gabrielxavier7">
